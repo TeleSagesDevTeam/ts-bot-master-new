@@ -1,0 +1,33 @@
+# Node related
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+
+# OS related
+.DS_Store
+*.swp
+*.swo
+*.bak
+*.tmp
+*~
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+
+# Build and cache
+dist/
+.cache/
+build/
+
+# Log files
+*.log
+
+# Other
+*.pid
+*.seed
+*.pid.lock
